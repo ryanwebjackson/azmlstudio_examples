@@ -10,3 +10,5 @@ path=%path%;/python34/scripts
 # Set up Azure tools
 pip install azureml
 
+# Find an example experiment
+# open http://gallery.azureml.net/
